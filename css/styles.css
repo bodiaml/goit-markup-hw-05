@@ -600,7 +600,7 @@ li {
 }
 
 .modal-button:hover .icon-close,
-.modal-button:focus.icon-close {
+.modal-button:focus .icon-close {
   fill: #ffffff;
 }
 /*================================ Hover/Focus===========================*/
